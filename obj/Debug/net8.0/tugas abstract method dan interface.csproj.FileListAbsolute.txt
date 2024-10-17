@@ -1,0 +1,14 @@
+c:\adi\semester 3\pbo pr\tugas abstract method dan interface\bin\Debug\net8.0\tugas abstract method dan interface.exe
+c:\adi\semester 3\pbo pr\tugas abstract method dan interface\bin\Debug\net8.0\tugas abstract method dan interface.deps.json
+c:\adi\semester 3\pbo pr\tugas abstract method dan interface\bin\Debug\net8.0\tugas abstract method dan interface.runtimeconfig.json
+c:\adi\semester 3\pbo pr\tugas abstract method dan interface\bin\Debug\net8.0\tugas abstract method dan interface.dll
+c:\adi\semester 3\pbo pr\tugas abstract method dan interface\bin\Debug\net8.0\tugas abstract method dan interface.pdb
+c:\adi\semester 3\pbo pr\tugas abstract method dan interface\obj\Debug\net8.0\tugas abstract method dan interface.GeneratedMSBuildEditorConfig.editorconfig
+c:\adi\semester 3\pbo pr\tugas abstract method dan interface\obj\Debug\net8.0\tugas abstract method dan interface.AssemblyInfoInputs.cache
+c:\adi\semester 3\pbo pr\tugas abstract method dan interface\obj\Debug\net8.0\tugas abstract method dan interface.AssemblyInfo.cs
+c:\adi\semester 3\pbo pr\tugas abstract method dan interface\obj\Debug\net8.0\tugas abstract method dan interface.csproj.CoreCompileInputs.cache
+c:\adi\semester 3\pbo pr\tugas abstract method dan interface\obj\Debug\net8.0\tugas abstract method dan interface.dll
+c:\adi\semester 3\pbo pr\tugas abstract method dan interface\obj\Debug\net8.0\refint\tugas abstract method dan interface.dll
+c:\adi\semester 3\pbo pr\tugas abstract method dan interface\obj\Debug\net8.0\tugas abstract method dan interface.pdb
+c:\adi\semester 3\pbo pr\tugas abstract method dan interface\obj\Debug\net8.0\tugas abstract method dan interface.genruntimeconfig.cache
+c:\adi\semester 3\pbo pr\tugas abstract method dan interface\obj\Debug\net8.0\ref\tugas abstract method dan interface.dll
